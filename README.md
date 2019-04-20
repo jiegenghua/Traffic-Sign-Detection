@@ -1,5 +1,5 @@
 # Red-Traffic-Sign-Detection
-This is a project to detect and label the traffic signs. 
+This is a project to detect the red round traffic signs. 
 
 I am going to use YOLO3, Fast-RCNN  to do that. More Networks will be tried after the final examination.
 
