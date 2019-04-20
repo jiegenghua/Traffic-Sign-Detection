@@ -23,7 +23,7 @@ git clone https://github.com/jiegenghua/Traffic-Sign-Objection.git
 
 3. Extract data from Annotation.json and put them into .csv file
 ```
-cd Mycode
+cd Traffic-Sign-Detection-master
 python dataextract.py
 ```
 4. Preprocessing data including crop and relabel to prepare it for CNN
