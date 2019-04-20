@@ -19,7 +19,7 @@ git clone https://github.com/jiegenghua/Traffic-Sign-Objection.git
    unzip data.zip
    unzip code.zip
 ```
-![position](/home/mizhou/Desktop/FinalSubmit/Mycode/position.png)
+![position](./position.png)
 
 3. Extract data from Annotation.json and put them into .csv file
 ```
