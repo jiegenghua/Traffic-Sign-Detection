@@ -47,7 +47,3 @@ git clone https://github.com/YunYang1994/tensorflow-yolov3.git
 python TT100K2TFRecord.py
 python convert_tfrecord.py
 ```
-## If you don't want to separately do step1-6, just run the following shell script.
-```
-sh ./all.sh
-```
